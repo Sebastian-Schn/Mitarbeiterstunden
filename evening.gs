@@ -1,3 +1,3 @@
-function evening() {
-main("evening");
+function morning() {
+main("morning");
 }
